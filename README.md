@@ -5,8 +5,7 @@
 * [Data Structure](#data-structure)
 * [Executive Summary](#executive-summary)
 * [Recommendations](#recommendations)
-* 
-## Table of Contents
+
 - [📊 Dataset Overview](#-dataset-overview)
 - [📈 Dashboard Features](#-dashboard-features)
   - [Key Metrics](#key-metrics)
