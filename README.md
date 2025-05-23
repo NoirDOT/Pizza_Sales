@@ -1,5 +1,5 @@
 # 🍕 Pizza Sales Analysis Dashboard (Excel)
-
+![Dashboard Preview](https://github.com/NoirDOT/Pizza_Sales/blob/a52743d755b98503692180fbdcb68a32645c95f0/pizza%20image.jpg)
 # Table of Contents
 * [Project Background](#project-background)
 * [Data Structure](#data-structure)
