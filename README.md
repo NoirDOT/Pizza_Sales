@@ -28,7 +28,7 @@ Maven Pizza Sales database contains the following key dimensions:
 | Dimension | Components |
 |-----------|------------|
 | **Pizza Categories** | Classic, Supreme, Chicken, Veggie |
-| **Pizza Sizes** | Small, Medium, Large, XXL, XXL |
+| **Pizza Sizes** | Small, Medium, Large, XL, XXL |
 | **Sales Metrics** | Quantity sold, Total sales, Unit price |
 | **Time Data** | Order dates and times throughout 2015 |
 
